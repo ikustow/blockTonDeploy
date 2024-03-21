@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7196d4-485f-4b61-bbe0-90759debb87b" name="Changes" comment="assets">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1f7196d4-485f-4b61-bbe0-90759debb87b" name="Changes" comment="assets" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +174,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711052818472</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711052938147</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052938147</updated>
+    </task>
+    <task id="LOCAL-00018" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711053081452</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711053081452</updated>
+    </task>
+    <task id="LOCAL-00019" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711053159242</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711053159242</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
