@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7196d4-485f-4b61-bbe0-90759debb87b" name="Changes" comment="assets">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f7196d4-485f-4b61-bbe0-90759debb87b" name="Changes" comment="assets" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +118,39 @@
       <option name="project" value="LOCAL" />
       <updated>1711051787548</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711052194106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052194106</updated>
+    </task>
+    <task id="LOCAL-00011" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711052334810</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052334810</updated>
+    </task>
+    <task id="LOCAL-00012" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711052429058</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052429058</updated>
+    </task>
+    <task id="LOCAL-00013" summary="assets">
+      <option name="closed" value="true" />
+      <created>1711052529701</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052529701</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
